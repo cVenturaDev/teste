@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 02 // IDENTIDADE                                              -->
@@ -43,7 +43,7 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 > next objective ................ ship more code
 ```
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 03 // ARSENAL                                                 -->
@@ -106,7 +106,7 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 04 // PROJETOS                                                -->
@@ -175,7 +175,7 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 05 // ESTATÍSTICAS                                            -->
@@ -203,7 +203,7 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 06 // CONTATOS                                                -->
@@ -230,7 +230,7 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <!-- ============================================================ -->
 <!-- 07 // ENCERRAMENTO                                            -->
