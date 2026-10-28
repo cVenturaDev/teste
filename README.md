@@ -194,8 +194,8 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cVenturaDev&show_icons=true&hide_border=false&border_radius=0&custom_title=NETRUNNER%20STATS&bg_color=050505&border_color=FCEE0A&title_color=FCEE0A&text_color=F5F5F5&icon_color=00F0FF&ring_color=FF003C" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cVenturaDev&layout=compact&langs_count=6&border_radius=0&custom_title=MOST%20USED%20LANGUAGES&bg_color=050505&border_color=00F0FF&title_color=FCEE0A&text_color=F5F5F5" alt="Most used languages">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=cVenturaDev&show_icons=true&hide_border=false&border_radius=0&custom_title=NETRUNNER%20STATS&bg_color=050505&border_color=FCEE0A&title_color=FCEE0A&text_color=F5F5F5&icon_color=00F0FF&ring_color=FF003C" alt="GitHub stats">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cVenturaDev&layout=compact&langs_count=6&border_radius=0&custom_title=MOST%20USED%20LANGUAGES&bg_color=050505&border_color=00F0FF&title_color=FCEE0A&text_color=F5F5F5" alt="Most used languages">
 
 </div>
 
