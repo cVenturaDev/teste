@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- BANNER: animado (chuva, glitch, neon). Arquivo local: assets/banner.svg -->
-<img src="./assets/banner.svg" alt="VENTURA - Full Stack Developer in Progress" width="100%">
+<img src="./banner.svg" alt="VENTURA - Full Stack Developer in Progress" width="100%">
 
 <!-- TERMINAL LOG: troque as linhas em "lines=" (separe com ; e use + no lugar de espaço) -->
 <a href="https://github.com/cVenturaDev">
