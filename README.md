@@ -220,9 +220,9 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 <div align="center">
 
 <a href="https://github.com/cVenturaDev"><img src="https://img.shields.io/badge/GITHUB-cVenturaDev-FCEE0A?style=for-the-badge&labelColor=1A1A1A" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-%5B_FILL_ME_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-%5B_FILL_ME_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="Instagram"></a>
-<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/E--MAIL-%5B_FILL_ME_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="E-mail"></a>
+<a href="https://www.linkedin.com/in/otavioventuraestavam/><img src="https://img.shields.io/badge/LINKEDIN-%5B_OTAVIO_VENTURA_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_vntura.szn/"><img src="https://img.shields.io/badge/INSTAGRAM-%5B_vntura_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="Instagram"></a>
+<a href="mailto:otavioboomb@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-%5B_%5D-FF003C?style=for-the-badge&labelColor=1A1A1A" alt="E-mail"></a>
 
 </div>
 
