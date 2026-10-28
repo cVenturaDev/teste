@@ -138,11 +138,11 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
   <tr>
     <td>
       <code>MISSION 001</code> &nbsp;
-      <img src="https://img.shields.io/badge/STATUS-PENDING-1A1A1A?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
-      <b>[ PROJECT_NAME ]</b><br>
-      <sub>Short description of the mission objective. Replace this text.</sub><br><br>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FCEE0A?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
+      <b>[ Monitor TJSP ]</b><br>
+      <sub>Uma ferramenta com o propósito de facilitar a vida do advogado ao monitorar seus processos de forma mais simples</sub><br><br>
       <img src="https://img.shields.io/badge/STACK-TECH_1_/_TECH_2-1A1A1A?style=flat-square&labelColor=FCEE0A" alt="Stack"><br><br>
-      <a href="https://github.com/cVenturaDev?tab=repositories"><code>[ ACCESS REPOSITORY ]</code></a>
+      <a href="https://github.com/cVenturaDev/Monitor-TJSP"><code>[ ACCESS REPOSITORY ]</code></a>
     </td>
   </tr>
 </table>
