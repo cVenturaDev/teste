@@ -152,9 +152,9 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
   <tr>
     <td>
       <code>MISSION 002</code> &nbsp;
-      <img src="https://img.shields.io/badge/STATUS-PENDING-1A1A1A?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
-      <b>[ PROJECT_NAME ]</b><br>
-      <sub>Short description of the mission objective. Replace this text.</sub><br><br>
+      <img src="https://img.shields.io/badge/STATUS-CLASSIFIED-FF003C?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
+      <b>[ CLASSIFIED ]</b><br>
+      <sub>...</sub><br><br>
       <img src="https://img.shields.io/badge/STACK-TECH_1_/_TECH_2-1A1A1A?style=flat-square&labelColor=00F0FF" alt="Stack"><br><br>
       <a href="https://github.com/cVenturaDev?tab=repositories"><code>[ ACCESS REPOSITORY ]</code></a>
     </td>
@@ -166,9 +166,9 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
   <tr>
     <td>
       <code>MISSION 003</code> &nbsp;
-      <img src="https://img.shields.io/badge/STATUS-PENDING-1A1A1A?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
-      <b>[ PROJECT_NAME ]</b><br>
-      <sub>Short description of the mission objective. Replace this text.</sub><br><br>
+      <img src="https://img.shields.io/badge/STATUS-CLASSIFIED-FF003C?style=flat-square&labelColor=1A1A1A" alt="Status"><br><br>
+      <b>[ CLASSIFIED ]</b><br>
+      <sub>...</sub><br><br>
       <img src="https://img.shields.io/badge/STACK-TECH_1_/_TECH_2-1A1A1A?style=flat-square&labelColor=FF003C" alt="Stack"><br><br>
       <a href="https://github.com/cVenturaDev?tab=repositories"><code>[ ACCESS REPOSITORY ]</code></a>
     </td>
