@@ -197,10 +197,6 @@ STATUS         = LEARNING, BUILDING AND BREAKING LIMITS
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=cVenturaDev&show_icons=true&hide_border=false&border_radius=0&custom_title=NETRUNNER%20STATS&bg_color=050505&border_color=FCEE0A&title_color=FCEE0A&text_color=F5F5F5&icon_color=00F0FF&ring_color=FF003C" alt="GitHub stats">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cVenturaDev&layout=compact&langs_count=6&border_radius=0&custom_title=MOST%20USED%20LANGUAGES&bg_color=050505&border_color=00F0FF&title_color=FCEE0A&text_color=F5F5F5" alt="Most used languages">
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=cVenturaDev&border_radius=0&background=050505&border=FF003C&stroke=1A1A1A&ring=FCEE0A&fire=FF003C&currStreakNum=FCEE0A&currStreakLabel=00F0FF&sideNums=F5F5F5&sideLabels=F5F5F5&dates=00F0FF" alt="GitHub streak">
-
 </div>
 
 <img src="./divider.svg" alt="" width="100%">
